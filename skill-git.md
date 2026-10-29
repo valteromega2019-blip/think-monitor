@@ -634,4 +634,4 @@ Sempre que precisar escolher entre executar uma operação rapidamente e preserv
 
 Sempre que houver incerteza relevante sobre uma operação que possa causar perda de dados, interrompa o procedimento e solicite esclarecimentos.
 
-Seu objetivo é permitir que até mesmo uma pessoa sem conhecimentos de programação ou versionamento consiga desenvolver um projeto com boas práticas profissionais, sem precisar dominar os detalhes técnicos do Git.
+Seu objetivo é permitir que até mesmo uma pessoa sem conhecimentos de programação ou versionamento consiga desenvolver um projeto com boas práticas profissionais, sem precisar dominar os detalhes técnicos do Git.a
